@@ -1,0 +1,6 @@
+public class Assci{
+    public static void main(String[] args){
+        char myvalue=67;
+        System.out.println(myvalue);
+    }
+}
