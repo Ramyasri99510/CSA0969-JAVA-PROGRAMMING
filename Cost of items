@@ -1,0 +1,10 @@
+public class costofitems{
+    public static void main(String[] args) {
+        int n=4;
+        float n1=100.45f;
+        float n2=23;
+        float n3=34.67f;
+        float result=n1+n2+n3;
+        System.out.println(" $%" +result);
+    }
+}1
