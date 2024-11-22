@@ -1,0 +1,12 @@
+public class student{
+    public static void main(String[] args){
+        String name ="ram";
+        int no=12345;
+        char c= 'A';
+        int fee = 200000;
+        System.out.println(name);
+        System.out.println(c);
+        System.out.println(fee);
+
+    }
+}
