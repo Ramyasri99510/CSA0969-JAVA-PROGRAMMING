@@ -1,0 +1,9 @@
+public class Insetstr{
+    public static void main(String[] args) {
+        String str1 = "HelloWorld";  
+        String str2 = "Java";        
+        int insertPosition = 5;      
+        String result = str1.substring(0, insertPosition) + str2 + str1.substring(insertPosition);
+        System.out.println("Resulting string: " + result);
+    }
+}
