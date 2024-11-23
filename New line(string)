@@ -1,0 +1,6 @@
+public class newline{
+    public static void main(String[] args) {
+        String str="ramya sri \n Good girl in the world ";
+        System.out.println(str);
+    }
+}
